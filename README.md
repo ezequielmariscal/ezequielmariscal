@@ -8,5 +8,5 @@
 </div>
     
 <div align="left">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ezequielmariscal&theme=chartreuse-dark&hide_border=true"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ezequielmariscal&theme=chartreuse-dark&hide_border=false"/></a>
 </div>
