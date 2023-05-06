@@ -1,7 +1,7 @@
 ### Stats
 <div align="left">
  <a href="https://github.com/ezequielmariscal">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=darcula&show_icons=true" />
+  <img align="left" src="https://git.io/streak-stats" />
   [![GitHub Streak](https://streak-stats.demolab.com?user=ezequielmariscal&theme=python-dark)](https://git.io/streak-stats)
 </a>
 <a href="https://github.com/ezequielmariscal">
